@@ -12,9 +12,9 @@ Passionate about building creative projects in **ML**, **Cloud**, and **Data Eng
 - I’m an **active learner**, constantly exploring:
   - **Data Science**, **Data Engineering**, **Cloud Computing**
   - **Machine Learning**, **Data Analysis**, and **Visualization**
--  Practicing **DSA in Java** to strengthen my **problem-solving skills**
-- 🔧 Building hands-on projects that blend **ML**, **Cloud**, and **Data workflows**
-- 🌐 Working with tools like **Apache Airflow, Docker, AWS, PostgreSQL, and more**
+  -  Practicing **DSA in Java** to strengthen my **problem-solving skills**
+  - Building hands-on projects that blend **ML**, **Cloud**, and **Data workflows**
+  - Working with tools like **Apache Airflow, Docker, AWS, PostgreSQL, and more**
 
 ---
 
@@ -40,8 +40,7 @@ Passionate about building creative projects in **ML**, **Cloud**, and **Data Eng
 
 ## Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/faizaliyaqat)
-- 📁 [Portfolio Coming Soon]
+- [LinkedIn](www.linkedin.com/in/faiza-liyaqat-682137217)
 - Open to collaboration, internships, and discussions!
 
 ---
