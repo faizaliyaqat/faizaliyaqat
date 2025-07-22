@@ -32,11 +32,12 @@ Passionate about building creative projects in **ML**, **Cloud**, and **Data Eng
 
 ## 📈 Currently:
 - Learning advanced **Cloud Data Engineering** concepts
-- Practicing **LeetCode in Java**
+- Practicing **[Leetcode][(https://leetcode.com/u/faizaliyaqat/)] in Java**
 - Exploring **ML pipelines**, **ETL workflows**, and **interactive dashboards**
 - Preparing for internships and research opportunities in **AI + Data**
 
 ---
+https://leetcode.com/u/faizaliyaqat/
 
 ## Let’s Connect
 
