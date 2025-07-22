@@ -37,7 +37,7 @@ Passionate about building creative projects in **ML**, **Cloud**, and **Data Eng
 - Preparing for internships and research opportunities in **AI + Data**
 
 ---
-https://leetcode.com/u/faizaliyaqat/
+
 
 ## Let’s Connect
 
