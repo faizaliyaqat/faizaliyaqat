@@ -40,7 +40,7 @@ Passionate about building creative projects in **ML**, **Cloud**, and **Data Eng
 
 ## Let’s Connect
 
-- [LinkedIn](www.linkedin.com/in/faiza-liyaqat-682137217)
+- [LinkedIn][(www.linkedin.com/in/faiza-liyaqat-682137217)](https://www.linkedin.com/in/faiza-liyaqat-682137217/)
 - Open to collaboration, internships, and discussions!
 
 ---
