@@ -1,20 +1,23 @@
-## Hi, I'm Faiza Liyaqat!👋
+# "Curiosity is the wick in the candle of learning." – William Arthur Ward
 
-
+                                    ## Hi, I'm Faiza Liyaqat! 👋
 
 Final Year B.Tech Student | Data Science & AI  
-Passionate about building creative projects in **ML**, **Cloud**, and **Data Engineering**
+Passionate about building creative solutions in **ML**, **Cloud**, and **Data Engineering**
 
 ---
 
 ## About Me
 
-- I’m an **active learner**, constantly exploring:
-  - **Data Science**, **Data Engineering**, **Cloud Computing**
-  - **Machine Learning**, **Data Analysis**, and **Visualization**
-  -  Practicing **DSA in Java** to strengthen my **problem-solving skills**
-  - Building hands-on projects that blend **ML**, **Cloud**, and **Data workflows**
-  - Working with tools like **Apache Airflow, Docker, AWS, PostgreSQL, and more**
+I am a curious and driven learner, continuously building my expertise in **Data Science**, **AI/ML**, and **Cloud Data Engineering**. Along with strong **problem-solving skills in Java**, I am enhancing my proficiency in **Python**, **SQL**, and data-driven solutions. I am eager to grow, contribute, and apply my learning to real-world challenges.
+
+### What I’m Exploring:
+- **Data Engineering**: ETL, Data Modeling, Spark, Kafka, Airflow, Snowflake, Docker, CI/CD
+- **Cloud**: AWS (S3, Glue, Athena, QuickSight), Snowflake
+- **AI/ML**: Machine Learning, NLP, SER, Computer Vision, Speech Processing, Hugging Face
+- **Visualization**: Pandas, NumPy, Matplotlib, Seaborn, QuickSight (AWS)
+- **Web Development**: PHP Laravel, Bootstrap, HTML, CSS, Streamlit
+- **Soft Skills**: Problem Solving, Communication, Teamwork, Presentation, Attention to Detail
 
 ---
 
@@ -27,21 +30,20 @@ Passionate about building creative projects in **ML**, **Cloud**, and **Data Eng
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Big Data](https://img.shields.io/badge/-Big%20Data-FF6F00?style=flat-square&logo=databricks&logoColor=white)
+![ML/AI](https://img.shields.io/badge/-ML%2FAI-0A66C2?style=flat-square&logo=ai&logoColor=white)
 
 ---
 
 ## 📈 Currently:
-- Learning advanced **Cloud Data Engineering** concepts
-- Practicing **[Leetcode][(https://leetcode.com/u/faizaliyaqat/)] in Java**
-- Exploring **ML pipelines**, **ETL workflows**, and **interactive dashboards**
-- Preparing for internships and research opportunities in **AI + Data**
+- Practicing **LeetCode** in Java to sharpen problem-solving skills
+- Exploring advanced **Cloud Data Engineering** and **ML pipelines**
+- Learning how to design **ETL workflows** and interactive dashboards
+- Preparing for internships and research roles in **AI + Data**
 
 ---
-
 
 ## Let’s Connect
 
-- [LinkedIn][(www.linkedin.com/in/faiza-liyaqat-682137217)](https://www.linkedin.com/in/faiza-liyaqat-682137217/)
+- [LinkedIn](https://www.linkedin.com/in/faiza-liyaqat-682137217/)
 - Open to collaboration, internships, and discussions!
-
----
