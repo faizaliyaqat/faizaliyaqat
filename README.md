@@ -1,6 +1,6 @@
 # "Curiosity is the wick in the candle of learning." – William Arthur Ward  
 
-                                                      ## Heyy there, I'm Faiza Liyaqat! 👋  
+## Heyy there, I'm Faiza Liyaqat! 👋  
 
 **Final Year B.Tech Student | Data Science & AI**  
 Passionate about building creative solutions in **ML**, **Cloud**, and **Data**  
