@@ -30,7 +30,6 @@ I'm a Final-Year B.Tech student specializing in **Data Science & AI**. I love so
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="SQL" />
   <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/main/assets/docker.gif" width="50" height="50" alt="Docker" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" width="50" height="50" alt="Airflow" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
 </p>
