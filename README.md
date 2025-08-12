@@ -1,4 +1,3 @@
-# "Curiosity is the wick in the candle of learning." – William Arthur Ward  
 
 ## Heyy there, I'm Faiza Liyaqat! 👋  
 
